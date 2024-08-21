@@ -28,8 +28,11 @@ git rebase --continue
 git log --oneline
 
 
+git tag name_tage
+git push origin --tags
 
 //jika ingin membuat sebuah fitur usahakan buat branch baru
+// jika ingin buat branch dan langsung pindah bisa menggunakan git checkout -b nama_branch
 git rebase
 
 
