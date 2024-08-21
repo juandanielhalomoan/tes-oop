@@ -29,7 +29,7 @@ git log --oneline
 
 
 
-
+git push origin --tags
 
 
 
