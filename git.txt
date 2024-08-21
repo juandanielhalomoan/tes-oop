@@ -11,8 +11,8 @@ git revert c9e4a5c
 
 git stash
 git stash list
-git checkout bugfix-branch
 git checkout main
+git checkout bugfix-branch
 git stash pop
 
 rebase
@@ -29,7 +29,8 @@ git log --oneline
 
 
 
-
+//jika ingin membuat sebuah fitur usahakan buat branch baru
+git rebase
 
 
 
