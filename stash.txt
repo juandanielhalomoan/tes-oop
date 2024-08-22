@@ -23,3 +23,5 @@ yang paling atas adalah yang paling terakhir diupdate
 
 
 git merge --squash __branch_
+
+git log --oneline
