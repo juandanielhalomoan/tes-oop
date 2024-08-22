@@ -20,3 +20,6 @@ git stash drop
 
 git stash apply __namastash__
 yang paling atas adalah yang paling terakhir diupdate
+
+
+git merge --squash __branch_
