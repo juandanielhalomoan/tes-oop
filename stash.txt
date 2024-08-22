@@ -12,5 +12,11 @@ cara membalikan source code yang terakhir buat
 git stash pop untuk yang terakhir dan menghapus snapshot yang lainnya
 git stash apply untuk snapshot yang banyakk
 
+
+git push -u origin feature
+
+cara menghapus stash
+git stash drop
+
 git stash apply __namastash__
 yang paling atas adalah yang paling terakhir diupdate
