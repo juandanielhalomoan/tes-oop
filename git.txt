@@ -1,12 +1,29 @@
 git revert membatalkan perubahan tertentu dengan commit baru.
 git stash menyimpan sementara perubahan yang belum di-commit.
 git rebase menggabungkan branch dengan memutar ulang commit untuk menghasilkan riwayat yang lebih bersih.
+
+
 git tag 
 
 git log --oneline
 
 
 git revert c9e4a5c
+
+menanyakan random precourse epic
+30 menit
+
+pemahaman project mirror project (pre-IP)
+materi tersendiri(awakening)
+kalimat penutup
+
+
+by data pertanyaan dari hasil belajar(slide)
+liat acuan
+
+fokus masalah
+
+
 
 
 git stash
@@ -34,3 +51,8 @@ git log --oneline
 
 
 https://medium.com/codeacademia/pahami-perbedaan-git-merge-dan-rebase-6ef9dea923b9 
+
+
+             branch A ---
+
+Branch Master         ----

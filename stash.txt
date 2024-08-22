@@ -1,0 +1,9 @@
+git stash
+misal jika ingin membangun sebuah fitur baru di branch feature, tiba" teman kalian bilang untuk switch ke master/main untuk fix masalah.
+nah kita butuh fungsi git stash ingin
+
+intinya bisa pindah ke branch master/main tanpa harus melakukan commit dahulu dibranch feature
+saat kembali lagi ke branch feature maka script yang sudah kalian buat dibranch feature tidak akan hilang walaupun tidak dicommit
+git stash
+git stash pop
+git stash apply
