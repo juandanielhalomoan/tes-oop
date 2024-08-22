@@ -7,3 +7,7 @@ saat kembali lagi ke branch feature maka script yang sudah kalian buat dibranch 
 git stash
 git stash pop
 git stash apply
+
+cara membalikan source code yang terakhir buat
+git stash pop untuk yang terakhir
+git stash apply untuk snapshot yang banyakk
