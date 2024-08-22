@@ -9,5 +9,8 @@ git stash pop
 git stash apply
 
 cara membalikan source code yang terakhir buat
-git stash pop untuk yang terakhir
+git stash pop untuk yang terakhir dan menghapus snapshot yang lainnya
 git stash apply untuk snapshot yang banyakk
+
+git stash apply __namastash__
+yang paling atas adalah yang paling terakhir diupdate
