@@ -10,3 +10,11 @@ idealnya ketika ingin merge branch adalah fast foward merge supaya gak nambahin 
 rebase / merge adalah sebuah workflow
 
 rebase itu tipenya fast foward
+
+git checkout -b _newfitur
+
+git commit -am ""
+
+sebelum melakukan merging ke dalam master biasakan pull terlebih dahulu masternya, buat jaga" siapa tau masternya berubah
+
+masuk ke branch yang ingin direbase
