@@ -17,6 +17,14 @@ git commit -am ""
 
 sebelum melakukan merging ke dalam master biasakan pull terlebih dahulu masternya, buat jaga" siapa tau masternya berubah
 
-masuk ke branch yang ingin direbase
+masuk ke branch yang ingin direbase ke branch master
 
 git rebase master
+
+biar sejajar kita merge dari master ke fitur yang dibuat
+dari master ke fitur
+git rebase fitur
+
+
+lalu kita push master
+git push -u origin master
