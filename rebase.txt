@@ -28,3 +28,5 @@ git rebase fitur
 
 lalu kita push master
 git push -u origin master
+
+Jadi merge dan rebase adalah 2 istilah yang digunakan untuk menggabungkan kerjaan dari branch yang berbeda.
