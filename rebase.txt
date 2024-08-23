@@ -1,1 +1,12 @@
 belajar rebase
+
+git workflow menggunakan teknik merger
+
+dicommit terakhir pointer branchnya nempel
+
+three way vs fast foward(karena maju 1 kommit)
+idealnya ketika ingin merge branch adalah fast foward merge supaya gak nambahin commit baru
+
+rebase / merge adalah sebuah workflow
+
+rebase itu tipenya fast foward
