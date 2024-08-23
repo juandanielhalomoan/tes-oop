@@ -24,7 +24,7 @@ liat acuan
 fokus masalah
 
 
-
+halo
 
 git stash
 git stash list
@@ -56,3 +56,7 @@ https://medium.com/codeacademia/pahami-perbedaan-git-merge-dan-rebase-6ef9dea923
              branch A ---
 
 Branch Master         ----
+
+
+
+
